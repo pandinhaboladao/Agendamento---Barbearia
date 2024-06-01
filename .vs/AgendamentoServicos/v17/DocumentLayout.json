@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|solutionrelative:agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|c:\\users\\adm\\onedrive\\\u00E1rea de trabalho\\visual studio\\vs2022\\agendamento .net 7.0\\agendamentoservicos\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|solutionrelative:agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|solutionrelative:global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\horariosdias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|solutionrelative:horariosdias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\horas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|solutionrelative:horas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\horas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|solutionrelative:horas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F3099E-A19C-4982-85BE-7974EF107958}|AgendamentoServicos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agenda.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\Agenda.cs",
+              "RelativeDocumentMoniker": "Agenda.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\Agenda.cs",
+              "RelativeToolTip": "Agenda.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:46:57.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Agenda.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\Agenda.cs",
+              "RelativeDocumentMoniker": "Agenda.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\Agenda.cs [Projeto]",
+              "RelativeToolTip": "Agenda.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:46:46.368Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HorariosDias.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\HorariosDias.cs",
+              "RelativeDocumentMoniker": "HorariosDias.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\HorariosDias.cs",
+              "RelativeToolTip": "HorariosDias.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:10:44.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\Global.cs",
+              "RelativeDocumentMoniker": "Global.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\Global.cs",
+              "RelativeToolTip": "Global.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:17:12.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAuwIYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:34:55.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:34:36.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "horas.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\horas.cs",
+              "RelativeDocumentMoniker": "horas.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\horas.cs",
+              "RelativeToolTip": "horas.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAmwJ8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:39:36.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "horas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\horas.cs",
+              "RelativeDocumentMoniker": "horas.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\horas.cs [Projeto]",
+              "RelativeToolTip": "horas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:52:40.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADM\\OneDrive\\\u00C1rea de Trabalho\\VIsual Studio\\VS2022\\Agendamento .NET 7.0\\AgendamentoServicos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T22:50:04.657Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

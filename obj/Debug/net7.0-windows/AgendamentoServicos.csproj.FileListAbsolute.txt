@@ -1,0 +1,64 @@
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.exe
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.deps.json
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.runtimeconfig.json
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.dll
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.pdb
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.csproj.AssemblyReference.cache
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.Agenda.resources
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.Form1.resources
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.Form2.resources
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.csproj.GenerateResource.cache
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.AssemblyInfoInputs.cache
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.AssemblyInfo.cs
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.csproj.CoreCompileInputs.cache
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.dll
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\obj\Debug\net7.0-windows\refint\AgendamentoServicos.dll
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.pdb
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.genruntimeconfig.cache
+C:\Users\alunos\source\repos\AgendamentoServicos\AgendamentoServicos\obj\Debug\net7.0-windows\ref\AgendamentoServicos.dll
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.exe
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.deps.json
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.runtimeconfig.json
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.dll
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.pdb
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.Agenda.resources
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.Form1.resources
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.Form2.resources
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.csproj.GenerateResource.cache
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.AssemblyInfoInputs.cache
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.AssemblyInfo.cs
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.csproj.CoreCompileInputs.cache
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.dll
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\refint\AgendamentoServicos.dll
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.pdb
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.genruntimeconfig.cache
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\ref\AgendamentoServicos.dll
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.menu.resources
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.menu_barbeiro.resources
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.Horarios.resources
+D:\Projeto Agendamento de Serviços\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.Form3.resources
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.exe
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.deps.json
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.runtimeconfig.json
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.dll
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\bin\Debug\net7.0-windows\AgendamentoServicos.pdb
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.Agenda.resources
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.Form1.resources
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.Form2.resources
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.Horarios.resources
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.menu.resources
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.menu_barbeiro.resources
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.csproj.GenerateResource.cache
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.AssemblyInfoInputs.cache
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.AssemblyInfo.cs
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.csproj.CoreCompileInputs.cache
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.dll
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\refint\AgendamentoServicos.dll
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.pdb
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.genruntimeconfig.cache
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\ref\AgendamentoServicos.dll
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.Cadastro.resources
+C:\Users\ADM\OneDrive\Área de Trabalho\VIsual Studio\VS2022\Agendamento .NET 7.0\AgendamentoServicos\obj\Debug\net7.0-windows\AgendamentoServicos.Login.resources
